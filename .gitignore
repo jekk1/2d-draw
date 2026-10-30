@@ -1,0 +1,20 @@
+# User projects and export artwork
+projects/
+FINAL/
+
+# Cache and temp files
+cache/
+.agents/
+nul
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
